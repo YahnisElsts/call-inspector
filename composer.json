@@ -1,0 +1,24 @@
+{
+	"name": "yahnis-elsts/call-inspector",
+	"description": "Basic formatting and inspection of PHP callables",
+	"type": "library",
+	"license": "MIT",
+	"autoload": {
+		"psr-4": {
+			"YahnisElsts\\CallInspector\\": "src/",
+			"YahnisElsts\\CallInspector\\Tests\\": "tests/"
+		}
+	},
+	"authors": [
+		{
+			"name": "Yahnis Elsts",
+			"email": "whiteshadow@w-shadow.com"
+		}
+	],
+	"require": {
+		"php": "^7.4 || ^8.0"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "^10.5"
+	}
+}
