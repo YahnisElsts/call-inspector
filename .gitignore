@@ -1,5 +1,6 @@
 # Composer
 /vendor/
+/vendor/**
 
 ### PHPUnit template
 # Covers PHPUnit
