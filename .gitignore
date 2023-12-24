@@ -1,3 +1,6 @@
+# Composer
+/vendor/
+
 ### PHPUnit template
 # Covers PHPUnit
 # Reference: https://phpunit.de/
