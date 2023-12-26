@@ -79,7 +79,7 @@ class InspectableCallable {
 	}
 
 	/**
-	 * Get the file name where the callable is defined.
+	 * Get the full path to the file where the callable is defined.
 	 *
 	 * @return string The file name, or an empty string if the callable is not defined in a file
 	 *                (e.g. a built-in function).
