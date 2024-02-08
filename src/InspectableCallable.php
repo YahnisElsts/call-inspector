@@ -4,7 +4,6 @@ namespace YahnisElsts\CallInspector;
 
 use Closure;
 use InvalidArgumentException;
-use ReflectionClass;
 use ReflectionException;
 use ReflectionFunction;
 use ReflectionMethod;
