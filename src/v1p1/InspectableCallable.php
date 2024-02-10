@@ -74,7 +74,7 @@ class InspectableCallable {
 			return get_class($this->callable);
 		}
 
-		return 'unknown';
+		return '{unknown}';
 	}
 
 	/**
